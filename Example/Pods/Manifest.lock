@@ -1,15 +1,22 @@
 PODS:
-  - RLPublicSDK (0.1.0)
+  - RLPublicSDK (0.1.0):
+    - SnapKit
+  - SnapKit (4.2.0)
 
 DEPENDENCIES:
   - RLPublicSDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
 
 EXTERNAL SOURCES:
   RLPublicSDK:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RLPublicSDK: 8c14649eab0509f013c916f7110670cfd4a079d9
+  RLPublicSDK: 51c795fb94356ea8f784bd5a919183a3988b1264
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
 
 PODFILE CHECKSUM: 4b612522a0b322ad6bc6bb2e4e0b4ae4c904ef2d
 

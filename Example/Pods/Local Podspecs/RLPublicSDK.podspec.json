@@ -1,9 +1,9 @@
 {
   "name": "RLPublicSDK",
   "version": "0.1.0",
-  "summary": "A short description of RLPublicSDK.",
+  "summary": "测试公有库的创建",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/1056709274@qq.com/RLPublicSDK",
+  "homepage": "https://github.com/Conan-R",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,19 @@
     "1056709274@qq.com": "wujianren@chandashi.com"
   },
   "source": {
-    "git": "https://github.com/1056709274@qq.com/RLPublicSDK.git",
+    "git": "https://github.com/Conan-R/RLPublicSDK.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.3"
   },
-  "source_files": "RLPublicSDK/Classes/**/*"
+  "source_files": "RLPublicSDK/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SnapKit": [
+
+    ]
+  },
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
 }
