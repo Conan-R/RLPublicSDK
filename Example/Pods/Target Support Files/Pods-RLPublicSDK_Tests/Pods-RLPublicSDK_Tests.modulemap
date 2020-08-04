@@ -1,0 +1,6 @@
+framework module Pods_RLPublicSDK_Tests {
+  umbrella header "Pods-RLPublicSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

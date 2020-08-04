@@ -1,0 +1,16 @@
+PODS:
+  - RLPublicSDK (0.1.0)
+
+DEPENDENCIES:
+  - RLPublicSDK (from `../`)
+
+EXTERNAL SOURCES:
+  RLPublicSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RLPublicSDK: 8c14649eab0509f013c916f7110670cfd4a079d9
+
+PODFILE CHECKSUM: 4b612522a0b322ad6bc6bb2e4e0b4ae4c904ef2d
+
+COCOAPODS: 1.9.3
