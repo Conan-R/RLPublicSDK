@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint RLPublicLib.podspec' to ensure this is a
+# Be sure to run `pod lib lint RLPublicSDK' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RLPublicSDK'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '测试公有库的创建'
 
 # This description is used to generate tags and improve search results.
