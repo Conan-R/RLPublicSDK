@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RLPublicSDK_Example' do
+  pod 'RLPublicSDK', :path => '../'
+
+  target 'RLPublicSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
